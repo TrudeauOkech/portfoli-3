@@ -34,5 +34,5 @@ export const projects = [
     },
   ];
   export const skills = [
-   "PHP", "Javascript", "Laravel", "CSS", 
+   "PHP", "Javascript", "Laravel", "CSS", "React", "Vue", "Angular", "MySQL"
   ];
